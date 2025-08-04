@@ -1,0 +1,6 @@
+pydub
+openai
+flask
+flask-cors
+python-dotenv
+dotenv
