@@ -1,6 +1,8 @@
-pydub
-openai
 flask
 flask-cors
-python-dotenv
+flask-socketio
+openai
+python-socketio
+python-engineio
+websockets
 dotenv
