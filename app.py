@@ -8,10 +8,8 @@ from dataclasses import dataclass, asdict
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from flask_socketio import SocketIO, emit, disconnect
-import openai
 from openai import OpenAI
 import websockets
-import base64
 import threading
 from queue import Queue
 from dotenv import load_dotenv
